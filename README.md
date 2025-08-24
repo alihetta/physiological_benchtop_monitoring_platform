@@ -1,7 +1,7 @@
 # Physiological Monitoring Platform
 
-**Overview**
-This project provides a **multimodal physiological monitoring system** that acquires, processes, and visualizes signals from:
+**Overview:**
+ This project provides a **multimodal physiological monitoring system** that acquires, processes, and visualizes signals from:
 1. **Electrocardiography (ECG)**
 2. **Photoplethysmography (PPG: Red & Infrared)**
 3. **Galvanic Skin Response (GSR)**
@@ -35,8 +35,8 @@ The platform integrates **Arduino firmware** for data acquisition with a **Pytho
    - Produces interactive plots (SpO₂, BPM, PTT, GSR)  
 
 ---
-**Outputs**
-The Python script generates an interactive dashboard with:
+**Outputs:**
+ The Python script generates an interactive dashboard with:
 1. SpO₂ (%) over time
 2. Heart Rate (BPM) from ECG and PPG  
 3. Pulse Transit Time (PTT) trends  
